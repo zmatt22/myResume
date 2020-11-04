@@ -44,3 +44,7 @@ a:hover {
 body {
     background: lightgrey;
 }
+
+.profile-text {
+    text-align: center;
+}

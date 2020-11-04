@@ -9,10 +9,10 @@ export default class Profile extends Component {
                         <img className="activator" src={ProfileImage} alt="profile"/>
                      </div>
                      <div className="card-content">
-                         <span className="card-title activator grey-text text-darken-4">
+                         <span className="card-title activator grey-text text-darken-4 profile-text">
                              Zolcsák Mátyás
                          </span>
-                         <p>Student</p>
+                         <p className="profile-text">Student</p>
                      </div>
                 </div>
             </div>
