@@ -10,7 +10,7 @@ export default class About extends Component {
                             <strong>ABOUT ME</strong>
                         </h6>
                         <p>
-                            I am a Computer Science student, who is eager to learn, gain experience and work in the field of front-end development.
+                            MSc student, who is eager to learn, gain experience and work in the field of front-end development.
                         </p>
                     </div>
                     <div className="card-action">

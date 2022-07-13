@@ -15,11 +15,13 @@ export default class Skills extends Component {
                                 <Skill skillName="CSS" skillLevel= "65%" />
                                 <Skill skillName="Javascript" skillLevel= "65%" />
                                 <Skill skillName="React" skillLevel= "60%" />
+                                
                             </div>
                             <div className="col s6">
                                 <Skill skillName="Node.js" skillLevel= "75%" />
                                 <Skill skillName="Git" skillLevel= "65%" />
                                 <Skill skillName="Databases (MySQL, MongoDB)" skillLevel="60%" />
+                                <Skill skillName="ASP .NET" skillLevel="60%" />
                             </div>
                         </div>
                     </div>
